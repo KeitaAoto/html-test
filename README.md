@@ -1,3 +1,3 @@
-Hello. This is the code for my website.
-toki. ni li sitelen wawa pi lipu mi.
-こんにちは。これがこのサイトのプログラムです。
+Hello. This is the code for my website.\n
+toki. ni li sitelen wawa pi lipu mi.\n
+こんにちは。これがこのサイトのプログラムです。\n
